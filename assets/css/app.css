@@ -1,12 +1,15 @@
                         /* PAGE D'ACCUEIL */
 .navbar {
-    position: relative;
-    display: flex;
+    position: fixed;
     z-index: 20;
     letter-spacing: 5px;
-   
+    width: 100%;
+    top: 0%;
 }
 
+.navbar-brand {
+
+}
 
 
 .bg-linear {
