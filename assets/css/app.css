@@ -151,29 +151,6 @@ img {
 
 
 
-
-.footer-logo-home{
-
-  width:50%;
-  height: 50%;
-  left: 20%;
-}
-
-.footer-logo-texte{
-  width: 90px;
-  height: 62px;
-  left:-50px;
-  top: 290px;
-  font-weight: normal;
-  font-size: 35px;
-  line-height: 126px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  letter-spacing: -0.02em;
-  color: #FFFFFF;
-}
-
         /* FORMULAIRE DE CONTACT*/
 .form{
 width:340px;
@@ -267,16 +244,7 @@ span{margin:0 5px 0 15px}
 }
 
 
-.footer {
-    display: flex;
-    align-items: center;
-    position: relative;
-    margin-top: 20px;
-}
 
-.footer-text {
-    font-size: 25px;
-}
                   /* PAGE ACTUALITÉ*/
 .articles{
   width: 90%;
@@ -367,5 +335,37 @@ span{margin:0 5px 0 15px}
     border-radius: 35px; 
 }
 
+.footer-logo-home{
+
+  width:50%;
+  height: 50%;
+  left: 20%;
+}
+
+.footer-logo-texte{
+  width: 90px;
+  height: 62px;
+  left:-50px;
+  top: 290px;
+  font-weight: normal;
+  font-size: 35px;
+  line-height: 126px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #FFFFFF;
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  position: relative;
+  margin-top: 20px;
+}
+
+.footer-text {
+  font-size: 25px;
+}
   }
 
