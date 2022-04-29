@@ -104,9 +104,11 @@ img {
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   border-radius: 35px;
 }
-.event-images{
+.First{
   margin-left: 10px;
-  letter-spacing: 15px;
+  display: flex;
+  justify-content: space-evenly;
+  flex-flow: row wrap;
 }
 
 
@@ -154,10 +156,8 @@ img {
     
     border-radius: 35px; 
    display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
    flex-flow: row wrap;
-   padding: 20px;
-   
   }
   
 
